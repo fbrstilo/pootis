@@ -7,7 +7,7 @@ namespace pootis
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bruh moment");
+            Console.WriteLine("Bruh momento numero dos");
         }
     }
 }
