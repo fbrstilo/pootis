@@ -6,7 +6,11 @@ namespace pootis
 {
     class Class1
     {
-        Console.WriteLine("Hello World!");
-        Console.WriteLine("Bruh momento numero dos");
+        static void aux(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bruh momento numero dos");
+
+        }
     }
 }
