@@ -7,7 +7,7 @@ namespace pootis
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bruh");
+            Console.WriteLine("četrestri dvajestri");
         }
     }
 }
